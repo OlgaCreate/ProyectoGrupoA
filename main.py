@@ -16,6 +16,7 @@ def mostrar_menu():
     print("0. Salir")
     print("-------------------------------------")
 
+# Función principal
 def main():
     """Función principal del programa."""
     alumnos = []
