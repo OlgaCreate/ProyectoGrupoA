@@ -1,5 +1,6 @@
 import utilidades
 
+#Mejoría se puede agregar más de 1 alumno
 def agregar_alumno(alumnos: list):
     """Solicita los datos de un alumno y lo agrega a la lista."""
     
