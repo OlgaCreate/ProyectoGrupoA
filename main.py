@@ -2,6 +2,7 @@ import gestionar_alumnos
 import buscar_alumnos
 import utilidades
 
+# Mejoría (Se puede agregar más de un alumno. Editar alumnos.)
 def mostrar_menu():
     """Muestra las opciones del menú principal."""
     utilidades.limpiar_pantalla()
